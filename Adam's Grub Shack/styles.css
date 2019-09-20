@@ -1,0 +1,61 @@
+body {
+    background-color: #c9af98;
+    font-family: 'Lucinda Sans Unicode', arial;
+}
+
+header, footer {
+    background-color: #3a4660;
+    color: #ed8a63;
+    font-family: 'Arial Black';
+    height: 100px;
+    text-align: center;
+    padding: 30px 10px 100px 10px;
+}
+
+nav a {
+    background-color: #ed8a63;
+    color: #845007;
+    padding: 4px;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px 20px;
+    width: 200px;
+    float: center;
+}
+
+nav a:hover {
+    background-color: #3a4660;
+    color: #ed8a63;
+}
+
+nav a:active {
+    font-weight: bold;
+}
+
+nav a:visited {
+    color: lightgrey;
+    font-weight: bold;
+}
+
+caption {
+    text-align: center;
+}
+
+.jumbotron {
+    display: block;
+    width: 75%;
+    background-color: #845007;
+    color: #ed8a63;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Arial Black';
+
+
+      }
+
+.carousel {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 10px 20px 10px;
+      }
